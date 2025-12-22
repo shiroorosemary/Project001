@@ -25,4 +25,5 @@ urllib3==2.3.0
 websocket-client==1.8.0
 wsproto==1.2.0
 gunicorn==20.1.0
+voila==0.5.6
 
