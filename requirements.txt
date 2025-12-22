@@ -26,4 +26,9 @@ websocket-client==1.8.0
 wsproto==1.2.0
 gunicorn==20.1.0
 voila==0.5.6
+notebook>=7.0
+jupyter_client
+jupyter_core
+ipykernel
+python-dateutil
 
